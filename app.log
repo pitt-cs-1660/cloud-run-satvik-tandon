@@ -1,0 +1,699 @@
+2025-03-16 00:51:50 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 00:51:50 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 00:51:50 INFO:     Started reloader process [1] using StatReload
+2025-03-16 00:51:53 INFO:     Started server process [3]
+2025-03-16 00:51:53 INFO:     Waiting for application startup.
+2025-03-16 00:51:53 INFO:     Application startup complete.
+2025-03-16 00:58:40 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 00:58:40 INFO:     169.254.169.126:30238 - "GET / HTTP/1.1" 200 OK
+2025-03-16 00:58:40 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 00:58:40 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 00:58:40 INFO:     169.254.169.126:6712 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 00:58:40 INFO:     169.254.169.126:6708 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 01:04:30 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 01:04:30 INFO:     169.254.169.126:47392 - "GET / HTTP/1.1" 200 OK
+2025-03-16 01:04:54 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 01:04:54 INFO:     169.254.169.126:53512 - "GET / HTTP/1.1" 200 OK
+2025-03-16 01:04:54 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 01:04:54 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 01:04:54 INFO:     169.254.169.126:53514 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 01:04:54 INFO:     169.254.169.126:53530 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 01:06:29 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 01:06:29 INFO:     169.254.169.126:58796 - "GET / HTTP/1.1" 200 OK
+2025-03-16 01:21:37 INFO:     Shutting down
+2025-03-16 01:21:37 INFO:     Waiting for application shutdown.
+2025-03-16 01:21:37 INFO:     Application shutdown complete.
+2025-03-16 01:21:37 INFO:     Finished server process [3]
+2025-03-16 01:21:37 INFO:     Stopping reloader process [1]
+2025-03-16 01:35:08 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 01:35:09 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 01:35:09 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 01:35:09 INFO:     Started reloader process [1] using StatReload
+2025-03-16 01:35:13 INFO:     Started server process [3]
+2025-03-16 01:35:13 INFO:     Waiting for application startup.
+2025-03-16 01:35:13 INFO:     Application startup complete.
+2025-03-16 01:35:13 INFO:     169.254.169.126:5040 - "GET / HTTP/1.1" 200 OK
+2025-03-16 01:35:13 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 01:35:13 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 01:35:13 INFO:     169.254.169.126:5044 - "GET /static/config.js HTTP/1.1" 304 Not Modified
+2025-03-16 01:35:13 INFO:     169.254.169.126:5050 - "GET /static/firebase.js HTTP/1.1" 304 Not Modified
+2025-03-16 01:50:17 INFO:     Shutting down
+2025-03-16 01:50:17 INFO:     Waiting for application shutdown.
+2025-03-16 01:50:17 INFO:     Application shutdown complete.
+2025-03-16 01:50:17 INFO:     Finished server process [3]
+2025-03-16 01:50:17 INFO:     Stopping reloader process [1]
+2025-03-16 02:06:59 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:06:59 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:07:00 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 02:07:00 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 02:07:00 INFO:     Started reloader process [1] using StatReload
+2025-03-16 02:07:04 INFO:     Started server process [3]
+2025-03-16 02:07:04 INFO:     Waiting for application startup.
+2025-03-16 02:07:04 INFO:     Application startup complete.
+2025-03-16 02:07:04 INFO:     169.254.169.126:5842 - "GET / HTTP/1.1" 200 OK
+2025-03-16 02:07:04 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 02:07:04 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 02:07:04 INFO:     169.254.169.126:5852 - "GET / HTTP/1.1" 200 OK
+2025-03-16 02:07:04 INFO:     169.254.169.126:5868 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 02:07:04 INFO:     169.254.169.126:5876 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 02:07:04 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 02:07:04 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 02:07:04 INFO:     169.254.169.126:5900 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 02:07:04 INFO:     169.254.169.126:5892 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 02:11:10 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:11:10 INFO:     169.254.169.126:51156 - "GET / HTTP/1.1" 200 OK
+2025-03-16 02:11:11 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 02:11:11 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 02:11:11 INFO:     169.254.169.126:51170 - "GET /static/firebase.js HTTP/1.1" 304 Not Modified
+2025-03-16 02:11:11 INFO:     169.254.169.126:51176 - "GET /static/config.js HTTP/1.1" 304 Not Modified
+2025-03-16 02:11:11 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:11:11 INFO:     169.254.169.126:51192 - "GET / HTTP/1.1" 200 OK
+2025-03-16 02:11:11 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 02:11:11 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 02:11:11 INFO:     169.254.169.126:51194 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 02:11:11 INFO:     169.254.169.126:51210 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 02:21:09 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:21:10 INFO:     169.254.169.126:21688 - "GET / HTTP/1.1" 200 OK
+2025-03-16 02:36:17 INFO:     Shutting down
+2025-03-16 02:36:17 INFO:     Waiting for application shutdown.
+2025-03-16 02:36:17 INFO:     Application shutdown complete.
+2025-03-16 02:36:17 INFO:     Finished server process [3]
+2025-03-16 02:36:17 INFO:     Stopping reloader process [1]
+2025-03-16 02:38:21 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:38:22 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 02:38:22 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 02:38:22 INFO:     Started reloader process [1] using StatReload
+2025-03-16 02:38:25 INFO:     Started server process [3]
+2025-03-16 02:38:25 INFO:     Waiting for application startup.
+2025-03-16 02:38:25 INFO:     Application startup complete.
+2025-03-16 02:38:25 INFO:     169.254.169.126:40700 - "POST / HTTP/1.1" 200 OK
+2025-03-16 02:38:27 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:38:30 INFO:     169.254.169.126:40706 - "POST / HTTP/1.1" 200 OK
+2025-03-16 02:38:34 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:38:36 INFO:     169.254.169.126:16572 - "POST / HTTP/1.1" 200 OK
+2025-03-16 02:38:38 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:38:38 INFO:     169.254.169.126:16582 - "POST / HTTP/1.1" 200 OK
+2025-03-16 02:38:40 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:38:40 INFO:     169.254.169.126:16584 - "POST / HTTP/1.1" 200 OK
+2025-03-16 02:38:41 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:38:41 INFO:     169.254.169.126:53658 - "POST / HTTP/1.1" 200 OK
+2025-03-16 02:38:43 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:38:45 INFO:     169.254.169.126:53660 - "POST / HTTP/1.1" 200 OK
+2025-03-16 02:39:12 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:39:12 INFO:     169.254.169.126:22164 - "POST / HTTP/1.1" 200 OK
+2025-03-16 02:39:13 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 02:39:13 INFO:     169.254.169.126:22174 - "POST / HTTP/1.1" 200 OK
+2025-03-16 02:54:17 INFO:     Shutting down
+2025-03-16 02:54:17 INFO:     Waiting for application shutdown.
+2025-03-16 02:54:17 INFO:     Application shutdown complete.
+2025-03-16 02:54:17 INFO:     Finished server process [3]
+2025-03-16 02:54:17 INFO:     Stopping reloader process [1]
+2025-03-16 03:00:35 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:00:36 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 03:00:36 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 03:00:36 INFO:     Started reloader process [1] using StatReload
+2025-03-16 03:00:39 INFO:     Started server process [3]
+2025-03-16 03:00:39 INFO:     Waiting for application startup.
+2025-03-16 03:00:39 INFO:     Application startup complete.
+2025-03-16 03:00:39 INFO:     169.254.169.126:53520 - "GET / HTTP/1.1" 200 OK
+2025-03-16 03:00:40 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 03:00:40 INFO:     169.254.169.126:53536 - "GET /static/config.js HTTP/1.1" 304 Not Modified
+2025-03-16 03:00:40 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 03:00:40 INFO:     169.254.169.126:53540 - "GET /static/firebase.js HTTP/1.1" 304 Not Modified
+2025-03-16 03:00:51 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:00:51 INFO:     169.254.169.126:51824 - "GET / HTTP/1.1" 200 OK
+2025-03-16 03:05:54 INFO:     Shutting down
+2025-03-16 03:05:54 INFO:     Waiting for application shutdown.
+2025-03-16 03:05:54 INFO:     Application shutdown complete.
+2025-03-16 03:05:54 INFO:     Finished server process [3]
+2025-03-16 03:05:54 INFO:     Stopping reloader process [1]
+2025-03-16 03:13:31 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 03:13:31 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 03:13:31 INFO:     Started reloader process [1] using StatReload
+2025-03-16 03:13:35 INFO:     Started server process [3]
+2025-03-16 03:13:35 INFO:     Waiting for application startup.
+2025-03-16 03:13:35 INFO:     Application startup complete.
+2025-03-16 03:13:45 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:13:46 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 03:13:46 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 03:13:46 INFO:     Started reloader process [1] using StatReload
+2025-03-16 03:13:49 INFO:     Started server process [3]
+2025-03-16 03:13:49 INFO:     Waiting for application startup.
+2025-03-16 03:13:49 INFO:     Application startup complete.
+2025-03-16 03:13:49 INFO:     169.254.169.126:61008 - "GET / HTTP/1.1" 200 OK
+2025-03-16 03:13:53 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:13:53 INFO:     169.254.169.126:61016 - "GET / HTTP/1.1" 200 OK
+2025-03-16 03:17:43 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:17:43 INFO:     169.254.169.126:15164 - "GET / HTTP/1.1" 200 OK
+2025-03-16 03:18:13 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:13 INFO:     169.254.169.126:46398 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:24 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:24 INFO:     169.254.169.126:54340 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:25 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:25 INFO:     169.254.169.126:54352 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:26 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:26 INFO:     169.254.169.126:54368 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:27 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:28 INFO:     169.254.169.126:54370 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:29 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:29 INFO:     169.254.169.126:54376 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:33 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:33 INFO:     169.254.169.126:29604 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:34 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:34 INFO:     169.254.169.126:29616 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:34 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:34 INFO:     169.254.169.126:29618 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:36 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:36 INFO:     169.254.169.126:29630 - "GET / HTTP/1.1" 200 OK
+2025-03-16 03:18:41 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:41 INFO:     169.254.169.126:29664 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:47 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:47 INFO:     169.254.169.126:59260 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:54 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:54 INFO:     169.254.169.126:22818 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:18:58 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:18:58 INFO:     169.254.169.126:22824 - "GET / HTTP/1.1" 200 OK
+2025-03-16 03:18:59 INFO:     Shutting down
+2025-03-16 03:18:59 INFO:     Waiting for application shutdown.
+2025-03-16 03:18:59 INFO:     Application shutdown complete.
+2025-03-16 03:18:59 INFO:     Finished server process [3]
+2025-03-16 03:18:59 INFO:     Stopping reloader process [1]
+2025-03-16 03:19:06 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 03:19:06 INFO:     169.254.169.126:1142 - "POST / HTTP/1.1" 200 OK
+2025-03-16 03:34:10 INFO:     Shutting down
+2025-03-16 03:34:10 INFO:     Waiting for application shutdown.
+2025-03-16 03:34:10 INFO:     Application shutdown complete.
+2025-03-16 03:34:10 INFO:     Finished server process [3]
+2025-03-16 03:34:10 INFO:     Stopping reloader process [1]
+2025-03-16 04:31:44 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 04:31:44 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 04:31:44 INFO:     Started reloader process [1] using StatReload
+2025-03-16 04:31:48 INFO:     Started server process [3]
+2025-03-16 04:31:48 INFO:     Waiting for application startup.
+2025-03-16 04:31:48 INFO:     Application startup complete.
+2025-03-16 04:32:13 GET 500 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 04:32:14 INFO:     169.254.169.126:64054 - "GET / HTTP/1.1" 500 Internal Server Error
+2025-03-16 04:32:14 ERROR:    Exception in ASGI application
+2025-03-16 04:32:14 Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+2025-03-16 04:32:14              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+2025-03-16 04:32:14     return await self.app(scope, receive, send)
+2025-03-16 04:32:14            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/fastapi/applications.py", line 1054, in __call__
+2025-03-16 04:32:14     await super().__call__(scope, receive, send)
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/applications.py", line 112, in __call__
+2025-03-16 04:32:14     await self.middleware_stack(scope, receive, send)
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 187, in __call__
+2025-03-16 04:32:14     raise exc
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 165, in __call__
+2025-03-16 04:32:14     await self.app(scope, receive, _send)
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+2025-03-16 04:32:14     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+2025-03-16 04:32:14     raise exc
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+2025-03-16 04:32:14     await app(scope, receive, sender)
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 715, in __call__
+2025-03-16 04:32:14     await self.middleware_stack(scope, receive, send)
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 735, in app
+2025-03-16 04:32:14     await route.handle(scope, receive, send)
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 288, in handle
+2025-03-16 04:32:14     await self.app(scope, receive, send)
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 76, in app
+2025-03-16 04:32:14     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+2025-03-16 04:32:14     raise exc
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+2025-03-16 04:32:14     await app(scope, receive, sender)
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 73, in app
+2025-03-16 04:32:14     response = await f(request)
+2025-03-16 04:32:14                ^^^^^^^^^^^^^^^^
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/fastapi/routing.py", line 301, in app
+2025-03-16 04:32:14     raw_response = await run_endpoint_function(
+2025-03-16 04:32:14                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:14   File "/usr/local/lib/python3.11/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
+2025-03-16 04:32:14     return await dependant.call(**values)
+2025-03-16 04:32:14            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:14   File "/app/cc_cloud_run/main.py", line 34, in read_root
+2025-03-16 04:32:14     recent_votes = sorted(vote_data, key=lambda x: x["iso_time_stamp"], reverse=True)[:5]
+2025-03-16 04:32:14                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:14   File "/app/cc_cloud_run/main.py", line 34, in <lambda>
+2025-03-16 04:32:14     recent_votes = sorted(vote_data, key=lambda x: x["iso_time_stamp"], reverse=True)[:5]
+2025-03-16 04:32:14                                                    ~^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:15 KeyError: 'iso_time_stamp'
+2025-03-16 04:32:24 GET 500 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 04:32:24 INFO:     169.254.169.126:36432 - "GET / HTTP/1.1" 500 Internal Server Error
+2025-03-16 04:32:24 ERROR:    Exception in ASGI application
+2025-03-16 04:32:24 Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+2025-03-16 04:32:24              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+2025-03-16 04:32:24     return await self.app(scope, receive, send)
+2025-03-16 04:32:24            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/fastapi/applications.py", line 1054, in __call__
+2025-03-16 04:32:24     await super().__call__(scope, receive, send)
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/applications.py", line 112, in __call__
+2025-03-16 04:32:24     await self.middleware_stack(scope, receive, send)
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 187, in __call__
+2025-03-16 04:32:24     raise exc
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 165, in __call__
+2025-03-16 04:32:24     await self.app(scope, receive, _send)
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+2025-03-16 04:32:24     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+2025-03-16 04:32:24     raise exc
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+2025-03-16 04:32:24     await app(scope, receive, sender)
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 715, in __call__
+2025-03-16 04:32:24     await self.middleware_stack(scope, receive, send)
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 735, in app
+2025-03-16 04:32:24     await route.handle(scope, receive, send)
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 288, in handle
+2025-03-16 04:32:24     await self.app(scope, receive, send)
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 76, in app
+2025-03-16 04:32:24     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+2025-03-16 04:32:24     raise exc
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+2025-03-16 04:32:24     await app(scope, receive, sender)
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 73, in app
+2025-03-16 04:32:24     response = await f(request)
+2025-03-16 04:32:24                ^^^^^^^^^^^^^^^^
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/fastapi/routing.py", line 301, in app
+2025-03-16 04:32:24     raw_response = await run_endpoint_function(
+2025-03-16 04:32:24                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:24   File "/usr/local/lib/python3.11/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
+2025-03-16 04:32:24     return await dependant.call(**values)
+2025-03-16 04:32:24            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:24   File "/app/cc_cloud_run/main.py", line 34, in read_root
+2025-03-16 04:32:24     recent_votes = sorted(vote_data, key=lambda x: x["iso_time_stamp"], reverse=True)[:5]
+2025-03-16 04:32:24                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:24   File "/app/cc_cloud_run/main.py", line 34, in <lambda>
+2025-03-16 04:32:24     recent_votes = sorted(vote_data, key=lambda x: x["iso_time_stamp"], reverse=True)[:5]
+2025-03-16 04:32:24                                                    ~^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:25 KeyError: 'iso_time_stamp'
+2025-03-16 04:32:46 GET 500 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 04:32:46 ERROR:    Exception in ASGI application
+2025-03-16 04:32:46 Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+2025-03-16 04:32:46              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+2025-03-16 04:32:46     return await self.app(scope, receive, send)
+2025-03-16 04:32:46            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/fastapi/applications.py", line 1054, in __call__
+2025-03-16 04:32:46     await super().__call__(scope, receive, send)
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/applications.py", line 112, in __call__
+2025-03-16 04:32:46     await self.middleware_stack(scope, receive, send)
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 187, in __call__
+2025-03-16 04:32:46     raise exc
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 165, in __call__
+2025-03-16 04:32:46     await self.app(scope, receive, _send)
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+2025-03-16 04:32:46     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+2025-03-16 04:32:46     raise exc
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+2025-03-16 04:32:46     await app(scope, receive, sender)
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 715, in __call__
+2025-03-16 04:32:46     await self.middleware_stack(scope, receive, send)
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 735, in app
+2025-03-16 04:32:46     await route.handle(scope, receive, send)
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 288, in handle
+2025-03-16 04:32:46     await self.app(scope, receive, send)
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 76, in app
+2025-03-16 04:32:46     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+2025-03-16 04:32:46     raise exc
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+2025-03-16 04:32:46     await app(scope, receive, sender)
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 73, in app
+2025-03-16 04:32:46     response = await f(request)
+2025-03-16 04:32:46                ^^^^^^^^^^^^^^^^
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/fastapi/routing.py", line 301, in app
+2025-03-16 04:32:46     raw_response = await run_endpoint_function(
+2025-03-16 04:32:46                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:46   File "/usr/local/lib/python3.11/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
+2025-03-16 04:32:46     return await dependant.call(**values)
+2025-03-16 04:32:46            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:46   File "/app/cc_cloud_run/main.py", line 34, in read_root
+2025-03-16 04:32:46     recent_votes = sorted(vote_data, key=lambda x: x["iso_time_stamp"], reverse=True)[:5]
+2025-03-16 04:32:46                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:46   File "/app/cc_cloud_run/main.py", line 34, in <lambda>
+2025-03-16 04:32:46     recent_votes = sorted(vote_data, key=lambda x: x["iso_time_stamp"], reverse=True)[:5]
+2025-03-16 04:32:46                                                    ~^^^^^^^^^^^^^^^^^^
+2025-03-16 04:32:46 INFO:     169.254.169.126:40220 - "GET / HTTP/1.1" 500 Internal Server Error
+2025-03-16 04:32:47 KeyError: 'iso_time_stamp'
+2025-03-16 04:37:56 INFO:     Shutting down
+2025-03-16 04:37:56 INFO:     Waiting for application shutdown.
+2025-03-16 04:37:56 INFO:     Application shutdown complete.
+2025-03-16 04:37:56 INFO:     Finished server process [3]
+2025-03-16 04:37:56 INFO:     Stopping reloader process [1]
+2025-03-16 04:46:21 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 04:46:21 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 04:46:21 INFO:     Started reloader process [1] using StatReload
+2025-03-16 04:46:25 INFO:     Started server process [3]
+2025-03-16 04:46:25 INFO:     Waiting for application startup.
+2025-03-16 04:46:25 INFO:     Application startup complete.
+2025-03-16 04:47:45 GET 500 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 04:47:46 INFO:     169.254.169.126:55380 - "GET / HTTP/1.1" 500 Internal Server Error
+2025-03-16 04:47:46 ERROR:    Exception in ASGI application
+2025-03-16 04:47:46 Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+2025-03-16 04:47:46              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+2025-03-16 04:47:46     return await self.app(scope, receive, send)
+2025-03-16 04:47:46            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/fastapi/applications.py", line 1054, in __call__
+2025-03-16 04:47:46     await super().__call__(scope, receive, send)
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/applications.py", line 112, in __call__
+2025-03-16 04:47:46     await self.middleware_stack(scope, receive, send)
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 187, in __call__
+2025-03-16 04:47:46     raise exc
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/errors.py", line 165, in __call__
+2025-03-16 04:47:46     await self.app(scope, receive, _send)
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+2025-03-16 04:47:46     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+2025-03-16 04:47:46     raise exc
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+2025-03-16 04:47:46     await app(scope, receive, sender)
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 715, in __call__
+2025-03-16 04:47:46     await self.middleware_stack(scope, receive, send)
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 735, in app
+2025-03-16 04:47:46     await route.handle(scope, receive, send)
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 288, in handle
+2025-03-16 04:47:46     await self.app(scope, receive, send)
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 76, in app
+2025-03-16 04:47:46     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+2025-03-16 04:47:46     raise exc
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+2025-03-16 04:47:46     await app(scope, receive, sender)
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/starlette/routing.py", line 73, in app
+2025-03-16 04:47:46     response = await f(request)
+2025-03-16 04:47:46                ^^^^^^^^^^^^^^^^
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/fastapi/routing.py", line 301, in app
+2025-03-16 04:47:46     raw_response = await run_endpoint_function(
+2025-03-16 04:47:46                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:47:46   File "/usr/local/lib/python3.11/site-packages/fastapi/routing.py", line 212, in run_endpoint_function
+2025-03-16 04:47:46     return await dependant.call(**values)
+2025-03-16 04:47:46            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:47:46   File "/app/cc_cloud_run/main.py", line 34, in read_root
+2025-03-16 04:47:46     recent_votes = sorted(vote_data, key=lambda x: x["iso_time_stamp"], reverse=True)[:5]
+2025-03-16 04:47:46                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-16 04:47:46   File "/app/cc_cloud_run/main.py", line 34, in <lambda>
+2025-03-16 04:47:46     recent_votes = sorted(vote_data, key=lambda x: x["iso_time_stamp"], reverse=True)[:5]
+2025-03-16 04:47:46                                                    ~^^^^^^^^^^^^^^^^^^
+2025-03-16 04:47:47 KeyError: 'iso_time_stamp'
+2025-03-16 05:02:47 INFO:     Shutting down
+2025-03-16 05:02:48 INFO:     Waiting for application shutdown.
+2025-03-16 05:02:48 INFO:     Application shutdown complete.
+2025-03-16 05:02:48 INFO:     Finished server process [3]
+2025-03-16 05:02:48 INFO:     Stopping reloader process [1]
+2025-03-16 05:09:27 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 05:09:27 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 05:09:27 INFO:     Started reloader process [1] using StatReload
+2025-03-16 05:09:31 INFO:     Started server process [3]
+2025-03-16 05:09:31 INFO:     Waiting for application startup.
+2025-03-16 05:09:31 INFO:     Application startup complete.
+2025-03-16 05:10:17 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:17 INFO:     169.254.169.126:16630 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:10:17 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:10:17 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:10:17 INFO:     169.254.169.126:16644 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:10:17 INFO:     169.254.169.126:16650 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:10:23 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:24 INFO:     169.254.169.126:16664 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:10:35 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:35 INFO:     169.254.169.126:43252 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:10:39 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:39 INFO:     169.254.169.126:43264 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:10:41 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:41 INFO:     169.254.169.126:43268 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:10:42 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:42 INFO:     169.254.169.126:43276 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:10:43 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:43 INFO:     169.254.169.126:43278 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:10:44 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:44 INFO:     169.254.169.126:43282 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:10:45 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:45 INFO:     169.254.169.126:8998 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:10:46 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:46 INFO:     169.254.169.126:9012 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:10:49 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:49 INFO:     169.254.169.126:9024 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:10:54 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:54 INFO:     169.254.169.126:9038 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:10:58 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:10:58 INFO:     169.254.169.126:59276 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:11:01 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:11:01 INFO:     169.254.169.126:59278 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:11:02 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:11:02 INFO:     169.254.169.126:59284 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:11:04 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:11:04 INFO:     169.254.169.126:59292 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:11:05 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:11:05 INFO:     169.254.169.126:65100 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:11:05 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:11:05 INFO:     169.254.169.126:65112 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:11:10 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:11:10 INFO:     169.254.169.126:65114 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:11:12 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:11:12 INFO:     169.254.169.126:65130 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:12:01 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:12:01 INFO:     169.254.169.126:57350 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:12:01 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:12:01 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:12:01 INFO:     169.254.169.126:57364 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:12:01 INFO:     169.254.169.126:57368 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:12:03 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:12:03 INFO:     169.254.169.126:57374 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:12:03 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:12:03 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:12:03 INFO:     169.254.169.126:57382 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:12:03 INFO:     169.254.169.126:57384 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:12:04 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:12:04 INFO:     169.254.169.126:57388 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:12:04 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:12:04 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:12:04 INFO:     169.254.169.126:57394 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:12:04 INFO:     169.254.169.126:57408 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:12:05 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:12:06 INFO:     169.254.169.126:48962 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:12:07 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:12:07 INFO:     169.254.169.126:48978 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:12:07 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:12:07 INFO:     169.254.169.126:48990 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:12:09 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:12:09 INFO:     169.254.169.126:48998 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:15:40 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:15:41 INFO:     169.254.169.126:40830 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:15:41 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:15:41 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:15:41 INFO:     169.254.169.126:40838 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:15:41 INFO:     169.254.169.126:40852 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:15:41 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:15:41 INFO:     169.254.169.126:40864 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:15:41 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:15:41 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:15:41 INFO:     169.254.169.126:40878 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:15:41 INFO:     169.254.169.126:40894 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:15:42 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:15:42 INFO:     169.254.169.126:40898 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:15:42 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:15:42 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:15:42 INFO:     169.254.169.126:40918 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:15:42 INFO:     169.254.169.126:40908 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:15:43 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:15:43 INFO:     169.254.169.126:40922 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:15:43 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:15:43 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:15:43 INFO:     169.254.169.126:40928 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:15:43 INFO:     169.254.169.126:40936 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:15:43 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:15:43 INFO:     169.254.169.126:40952 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:15:43 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:15:43 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:15:43 INFO:     169.254.169.126:40960 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:15:43 INFO:     169.254.169.126:40958 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:15:43 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:15:43 INFO:     169.254.169.126:40970 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:15:43 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:15:43 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:15:43 INFO:     169.254.169.126:40988 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:15:43 INFO:     169.254.169.126:40982 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:15:43 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:15:43 INFO:     169.254.169.126:40996 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:15:44 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:15:44 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:15:44 INFO:     169.254.169.126:41006 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:15:44 INFO:     169.254.169.126:41014 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:15:44 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:15:44 INFO:     169.254.169.126:41020 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:15:44 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:15:44 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:15:44 INFO:     169.254.169.126:41026 - "GET /static/config.js HTTP/1.1" 200 OK
+2025-03-16 05:15:44 INFO:     169.254.169.126:41034 - "GET /static/firebase.js HTTP/1.1" 200 OK
+2025-03-16 05:15:54 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:15:54 INFO:     169.254.169.126:50608 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:16:08 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:16:09 INFO:     169.254.169.126:39168 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:16:12 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:16:12 INFO:     169.254.169.126:39184 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:16:15 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:16:15 INFO:     169.254.169.126:35666 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:24:50 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:24:50 INFO:     169.254.169.126:4734 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:24:50 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:24:50 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:24:50 INFO:     169.254.169.126:4746 - "GET /static/config.js HTTP/1.1" 304 Not Modified
+2025-03-16 05:24:50 INFO:     169.254.169.126:4756 - "GET /static/firebase.js HTTP/1.1" 304 Not Modified
+2025-03-16 05:24:51 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:24:52 INFO:     169.254.169.126:4766 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:24:55 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:24:55 INFO:     169.254.169.126:4776 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:24:58 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:24:58 INFO:     169.254.169.126:19762 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:02 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:02 INFO:     169.254.169.126:19766 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:03 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:03 INFO:     169.254.169.126:19774 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:04 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:05 INFO:     169.254.169.126:19778 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:06 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:06 INFO:     169.254.169.126:27074 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:08 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:08 INFO:     169.254.169.126:27088 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:25:12 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:12 INFO:     169.254.169.126:27094 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:13 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:13 INFO:     169.254.169.126:27100 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:22 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:22 INFO:     169.254.169.126:61270 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:24 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:24 INFO:     169.254.169.126:61276 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:25:27 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:27 INFO:     169.254.169.126:22512 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:28 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:28 INFO:     169.254.169.126:22520 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:25:31 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:31 INFO:     169.254.169.126:22530 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:32 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:32 INFO:     169.254.169.126:22544 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:33 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:33 INFO:     169.254.169.126:22548 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:36 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:36 INFO:     169.254.169.126:23322 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:37 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:37 INFO:     169.254.169.126:23334 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:38 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:38 INFO:     169.254.169.126:23346 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:25:49 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:25:49 INFO:     169.254.169.126:10354 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:26:08 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:26:08 INFO:     169.254.169.126:30886 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:26:09 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:26:09 INFO:     169.254.169.126:30898 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:26:11 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:26:11 INFO:     169.254.169.126:30906 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:26:11 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:26:11 INFO:     169.254.169.126:30910 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:26:13 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:26:13 INFO:     169.254.169.126:30920 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:31:15 INFO:     Shutting down
+2025-03-16 05:31:15 INFO:     Waiting for application shutdown.
+2025-03-16 05:31:15 INFO:     Application shutdown complete.
+2025-03-16 05:31:15 INFO:     Finished server process [3]
+2025-03-16 05:31:15 INFO:     Stopping reloader process [1]
+2025-03-16 05:32:26 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 05:32:26 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 05:32:26 INFO:     Started reloader process [1] using StatReload
+2025-03-16 05:32:29 INFO:     Started server process [3]
+2025-03-16 05:32:29 INFO:     Waiting for application startup.
+2025-03-16 05:32:29 INFO:     Application startup complete.
+2025-03-16 05:33:17 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:17 INFO:     169.254.169.126:33112 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:33:17 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 05:33:17 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 05:33:17 INFO:     169.254.169.126:33114 - "GET /static/firebase.js HTTP/1.1" 304 Not Modified
+2025-03-16 05:33:17 INFO:     169.254.169.126:33122 - "GET /static/config.js HTTP/1.1" 304 Not Modified
+2025-03-16 05:33:33 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:33 INFO:     169.254.169.126:56476 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:34 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:34 INFO:     169.254.169.126:56486 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:35 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:35 INFO:     169.254.169.126:56498 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:33:38 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:38 INFO:     169.254.169.126:61050 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:41 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:41 INFO:     169.254.169.126:61060 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:33:42 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:42 INFO:     169.254.169.126:61072 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:44 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:44 INFO:     169.254.169.126:61080 - "GET / HTTP/1.1" 200 OK
+2025-03-16 05:33:45 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:46 INFO:     169.254.169.126:61088 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:47 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:47 INFO:     169.254.169.126:61098 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:49 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:49 INFO:     169.254.169.126:43834 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:49 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:49 INFO:     169.254.169.126:43846 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:52 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:52 INFO:     169.254.169.126:43858 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:52 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:52 INFO:     169.254.169.126:43872 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:53 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:53 INFO:     169.254.169.126:43876 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:56 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:56 INFO:     169.254.169.126:43892 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:58 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:59 INFO:     169.254.169.126:8172 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:33:59 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:33:59 INFO:     169.254.169.126:8186 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:34:00 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:34:00 INFO:     169.254.169.126:8188 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:34:00 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:34:01 INFO:     169.254.169.126:8200 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:34:01 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:34:01 INFO:     169.254.169.126:8208 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:34:02 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:34:02 INFO:     169.254.169.126:8224 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:34:04 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:34:04 INFO:     169.254.169.126:8230 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:34:08 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:34:08 INFO:     169.254.169.126:8238 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:34:08 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 05:34:08 INFO:     169.254.169.126:8252 - "POST / HTTP/1.1" 200 OK
+2025-03-16 05:49:16 INFO:     Shutting down
+2025-03-16 05:49:16 INFO:     Waiting for application shutdown.
+2025-03-16 05:49:16 INFO:     Application shutdown complete.
+2025-03-16 05:49:16 INFO:     Finished server process [3]
+2025-03-16 05:49:16 INFO:     Stopping reloader process [1]
+2025-03-16 06:14:30 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 06:14:31 INFO:     Will watch for changes in these directories: ['/app']
+2025-03-16 06:14:31 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-03-16 06:14:31 INFO:     Started reloader process [1] using StatReload
+2025-03-16 06:14:35 INFO:     Started server process [3]
+2025-03-16 06:14:35 INFO:     Waiting for application startup.
+2025-03-16 06:14:35 INFO:     Application startup complete.
+2025-03-16 06:14:35 INFO:     169.254.169.126:13140 - "GET / HTTP/1.1" 200 OK
+2025-03-16 06:14:35 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/config.js
+2025-03-16 06:14:35 GET 304 https://tabs-vs-spaces-785993937496.us-central1.run.app/static/firebase.js
+2025-03-16 06:14:35 INFO:     169.254.169.126:13158 - "GET /static/firebase.js HTTP/1.1" 304 Not Modified
+2025-03-16 06:14:35 INFO:     169.254.169.126:13142 - "GET /static/config.js HTTP/1.1" 304 Not Modified
+2025-03-16 06:14:51 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 06:14:51 INFO:     169.254.169.126:3576 - "POST / HTTP/1.1" 200 OK
+2025-03-16 06:14:52 GET 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 06:14:52 INFO:     169.254.169.126:3582 - "GET / HTTP/1.1" 200 OK
+2025-03-16 06:24:36 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 06:24:36 INFO:     169.254.169.126:26148 - "POST / HTTP/1.1" 200 OK
+2025-03-16 06:24:37 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 06:24:38 INFO:     169.254.169.126:26156 - "POST / HTTP/1.1" 200 OK
+2025-03-16 06:24:38 POST 200 https://tabs-vs-spaces-785993937496.us-central1.run.app/
+2025-03-16 06:24:38 INFO:     169.254.169.126:26172 - "POST / HTTP/1.1" 200 OK
